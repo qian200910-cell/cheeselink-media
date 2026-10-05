@@ -1,6 +1,6 @@
 # 芝士链 · 媒体文件
 
-这个仓库只放一件事：**芝士链（incheesylink.top）前台要播的视频**。
+这个仓库只放一件事：**芝士链（[incheesylink.top](https://incheesylink.top/)）前台要播的视频**。
 
 文件通过 Release 附件上传，取到的公开直链填进站点后台的「视频地址」或「自托管地址」。
 
